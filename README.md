@@ -1,8 +1,12 @@
-# certifications
+##  Verify My certifications
 
 ## Technical skills
+[Microsoft Cerified:PowerBI Data Analyst Associate](https://learn.microsoft.com/en-gb/credentials/certifications/data-analyst-associate/)
 
-![](https://github.com/bellaTHEanalyst/certifications/blob/main/google%20analytics%20certificate.jpg)
+[Microsoft Certified:Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-gb/credentials/certifications/fabric-analytics-engineer-associate/)
+
+![Google Data Analytics Certificate](https://github.com/bellaTHEanalyst/certifications/blob/main/google%20analytics%20certificate.jpg)
+[Microsoft Certified: Azure FUndamentals](https://learn.microsoft.com/en-gb/credentials/certifications/azure-fundamentals/)
 
 [verify here](https://www.credly.com/badges/097e543b-0819-4553-8f2a-1a17adc75ce9/public_url)
 
@@ -16,7 +20,10 @@
 ![](https://github.com/bellaTHEanalyst/certifications/blob/main/side%20hustle%20certificate.jpg)
 
 
+
 ## Non-Technical skills
+
+Mckinsey Forward Alumni
 
 ![](https://github.com/bellaTHEanalyst/certifications/blob/main/Mckinsey%20certification.jpg)
 
