@@ -1,7 +1,7 @@
 ##  Verify My certifications
 
 ## Technical skills
-[Microsoft Cerified:PowerBI Data Analyst Associate](https://learn.microsoft.com/en-gb/credentials/certifications/data-analyst-associate/)
+[Microsoft Cerified:PowerBI Data Analyst Associate](https://learn.microsoft.com/en-us/users/isabellamartins-3327/credentials/6e773e2c858f11c3)
 
 [Microsoft Certified:Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-gb/credentials/certifications/fabric-analytics-engineer-associate/)
 
